@@ -42,8 +42,6 @@ The aim of this project is to analyze the dataset containing 42,000 reviews from
 ### Dashboard Overview
 
 <img width="1469" alt="Screenshot 2024-06-07 at 22 11 09" src="https://github.com/Akshaypatil9714/Disneyland-Ratings-Analysis/assets/113010034/1299ca09-81e8-4443-b9d4-33d043353dfc">
-<img width="1469" alt="Screenshot 2024-06-07 at 22 11 09" src="https://github.com/Akshaypatil9714/Disneyland-Ratings-Analysis/assets/113010034/1299ca09-81e8-4443-b9d4-33d043353dfc">
-
 
 
 This dashboard provides a comprehensive overview of the Disneyland ratings analysis. It includes multiple visualizations that highlight key insights from the dataset:_

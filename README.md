@@ -41,7 +41,7 @@ The aim of this project is to analyze the dataset containing 42,000 reviews from
 
 ### Dashboard Overview
 
-![Tableau Dashboard](Screenshot 2024-06-07 at 22.11.09.png)
+!(Screenshot 2024-06-07 at 22.11.09.png)
 
 This dashboard provides a comprehensive overview of the Disneyland ratings analysis. It includes multiple visualizations that highlight key insights from the dataset:_
 

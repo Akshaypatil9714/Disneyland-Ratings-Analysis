@@ -36,3 +36,15 @@ The aim of this project is to analyze the dataset containing 42,000 reviews from
 
 5. **Data Visualization:**
    - Create visualizations using Tableau to present the findings.
+
+## Tableau Analysis
+
+### Dashboard Overview
+
+![Tableau Dashboard](Screenshot 2024-06-07 at 22.11.09.png)
+
+This dashboard provides a comprehensive overview of the Disneyland ratings analysis. It includes multiple visualizations that highlight key insights from the dataset:_
+
+- **Average Ratings Over Time:** This line chart shows the trend of average ratings given by visitors over time, helping us understand how visitor satisfaction has changed.
+- **Sentiment Distribution:** This bar chart displays the distribution of sentiments (positive, negative, neutral) in the reviews, giving an overview of how visitors feel about their experiences.
+- **Ratings and Sentiments by Branch:** This section compares the average ratings and sentiments across different Disneyland branches, highlighting which branches have higher or lower satisfaction levels.
